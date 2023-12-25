@@ -1,0 +1,31 @@
+node_modules
+local
+# IntelliJ IDEA
+.idea
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Parcel default cache directory
+.parcel-cache
+
+# CDK Context
+cdk.context.json
+
+# TS
+*.d.ts
+
+# Binary Files
+*.pdf
+
+# EsLint
+!.eslintrc.js
+
+# Web and package distributions
+dist
+
+__pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_STORE
